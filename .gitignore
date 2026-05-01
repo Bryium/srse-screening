@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# Testing / Hypothesis
+.pytest_cache/
+.hypothesis/
+
+# Editor / OS
+.idea/
+.vscode/
+.qodo/
+.DS_Store
+Thumbs.db
+
+# Cloned third-party project (used only for empirical analysis)
+target_project/

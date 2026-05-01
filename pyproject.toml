@@ -1,0 +1,11 @@
+[tool.pytest.ini_options]
+testpaths = ["original_tests", "tests_with_smt"]
+norecursedirs = [
+    "target_project",
+    "practice",
+    "venv",
+    ".venv",
+    ".pytest_cache",
+    ".hypothesis",
+]
+addopts = "-q"
