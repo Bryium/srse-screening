@@ -1,7 +1,6 @@
 # SRSE  Screening — Property-Based Testing meets SMT
 
-This repository is a submission for the UIUC++ Summer Research in Software
-Engineering (SRSE) 2026 screening task. It investigates whether SMT solving
+This repository  investigates whether SMT solving
 (via Z3) can replace the random input generation used by Hypothesis when a
 test's constraints are tight enough to make random sampling impractical.
 
