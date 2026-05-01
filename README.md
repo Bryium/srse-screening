@@ -1,4 +1,4 @@
-# SRSE 2026 Screening — Property-Based Testing meets SMT
+# SRSE  Screening — Property-Based Testing meets SMT
 
 This repository is a submission for the UIUC++ Summer Research in Software
 Engineering (SRSE) 2026 screening task. It investigates whether SMT solving
